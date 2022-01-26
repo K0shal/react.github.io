@@ -1,0 +1,36 @@
+*{
+    padding: 0%;
+    margin:0%;
+    box-sizing: border-box;
+}
+.leftheading{
+    height: 100vh;
+    display: flex;
+    width: 50%;
+    background-color: transparent;
+   flex-direction: column;
+   justify-content: center;
+   
+}
+.leftheading p{
+   
+    font-size: 50px;
+    color: rgb(233, 217, 217);
+    height: fit-content;
+    width: 79%;
+    margin-left:5%;
+    font-weight: 200;
+    margin-top: 25%;
+}
+.leftheading button{
+    width: 20%;
+    height: 8%;
+    border: none;
+    background-color: #737946;
+    margin-left: 5%;
+    
+    text-align: center;
+    color: white;
+    border-radius: 3px;
+    font-size: 15px;
+}
